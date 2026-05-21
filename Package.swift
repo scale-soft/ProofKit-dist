@@ -12,7 +12,7 @@ let package = Package(
         .binaryTarget(
             name: "ProofKit",
             url: "https://github.com/scale-soft/ProofKit-dist/releases/download/v1_0/ProofKit-v1_0.xcframework.zip",
-            checksum: "3e8c00a75cb5efd8a9ab21a909ff457eeadb4c190c4e5a2a212b7eb8a2c4aded"
+            checksum: "3b4f2621c767f86817ea9eda136e14080ec5c908a2cbfc0d1a26371ac2c3d8a3"
         )
     ]
 )

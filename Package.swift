@@ -11,8 +11,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "ProofKit",
-            url: "https://github.com/scale-soft/ProofKit-dist/releases/download/v1_0/ProofKit-v1_0.xcframework.zip",
-            checksum: "3b4f2621c767f86817ea9eda136e14080ec5c908a2cbfc0d1a26371ac2c3d8a3"
+            url: "https://github.com/scale-soft/ProofKit-dist/releases/download/v1_0-ios/ProofKit-v1_0-ios.xcframework.zip",
+            checksum: "7c809edfeb4346d96ef6407bb98dca8b832a325a0f2df3a8bfa5d137c52c6967"
         )
     ]
 )
